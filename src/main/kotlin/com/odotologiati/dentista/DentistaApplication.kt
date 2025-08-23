@@ -1,4 +1,4 @@
-package com.dentista.dentista
+package com.odotologiati.dentista
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

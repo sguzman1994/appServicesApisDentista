@@ -1,4 +1,4 @@
-package com.dentista.dentista.commons;
+package com.odotologiati.dentista.commons;
 
 import java.io.Serializable;
 import java.util.ArrayList;
@@ -7,8 +7,6 @@ import java.util.Optional;
 
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Service;
-
-
 
 @Service
 public abstract class GenericServiceImpl<T, ID extends Serializable> implements GenericServiceAPI<T, ID> {

@@ -1,4 +1,4 @@
-package com.dentista.dentista.commons;
+package com.odotologiati.dentista.commons;
 
 import java.io.Serializable;
 import java.util.List;
