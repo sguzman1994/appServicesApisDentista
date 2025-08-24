@@ -5,5 +5,4 @@ import org.springframework.data.repository.CrudRepository
 
 interface PacienteRepository : CrudRepository<Paciente, Long> {
 
-
 }
